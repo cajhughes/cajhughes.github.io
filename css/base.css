@@ -1,5 +1,5 @@
 a { border-bottom: 1px dotted #33a; color: #33a; text-decoration: none; }
-a.adobe { color: #f00; }
+a.adobe { border-bottom: 1px dotted #f00; color: #f00; }
 body { background-color: #eee; color: #333; font: 14px "Lucida Grande","Lucida Sans Unicode",Helvetica,Arial,Verdana,sans-serif; line-height: 2.0em; padding: 10px 5% 0; }
 h2 { padding-top: 40px; }
 img { padding: 20px 0 20px 40px; }
