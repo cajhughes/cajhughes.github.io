@@ -1,6 +1,6 @@
 a { border-bottom: 1px dotted #33a; color: #33a; text-decoration: none; }
 a.adobe { border-bottom: 1px dotted #f00; color: #f00; }
-body { background-color: #eee; background-image: url(/images/gen-logo.png); background-position: 95% 5%; background-repeat: no-repeat; color: #333; font: 14px "Lucida Grande","Lucida Sans Unicode",Helvetica,Arial,Verdana,sans-serif; line-height: 2.0em; padding: 10px 5% 0; text-shadow: 0 -2px #eee, 0 1px #eee; }
+body { background-color: #eee; background-image: url(/images/gen-logo.png); background-position: 95% 5%; background-repeat: no-repeat; color: #333; font: 14px "Lucida Grande","Lucida Sans Unicode",Helvetica,Arial,Verdana,sans-serif; line-height: 2.0em; padding: 10px 5% 0; text-shadow: 0 -1px #eee, 0 1px #eee; }
 h2 { padding-top: 40px; }
 img { padding: 20px 0 20px 40px; }
 li { padding-bottom: 10px; }
